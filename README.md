@@ -1,2 +1,2 @@
 # Learning JavaScript
-JS tutor
+## JS tutor
