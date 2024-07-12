@@ -1,0 +1,45 @@
+function triangle(a)
+{
+    for(var a = 0; a<3; a++){
+        forward(150)
+        left(120)
+    }
+}
+triangle()
+
+function square(b)
+{
+    for(var b = 0; b<4; b++){
+        forward(150)
+        left(90)
+    }
+}
+square()
+
+function fiveangle(c)
+{
+    for(var c = 0; c<5; c++){
+        forward(150)
+        left(72)
+    }
+}
+fiveangle()
+function sixangle(d)
+{
+    for(var d = 0; d<6; d++){
+        forward(150)
+        left(60)
+    }
+}
+sixangle()
+function circle(){
+    for(var x = 0; x<15; x++) {
+        penup()
+        forward(90)
+        pendown()
+        forward(10)
+        goto(0, 0)
+        left(10)
+    }
+}
+circle()
