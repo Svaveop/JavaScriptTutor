@@ -1,2 +1,2 @@
 # Learning JavaScript
-## JS tutor
+## Helping People with JS. JS Tutorial
