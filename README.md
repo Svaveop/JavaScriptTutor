@@ -17,3 +17,6 @@
 Clone the repository:
 ```bash
 git clone https://github.com/Svaveop/JSTutor.git
+```
+
+
